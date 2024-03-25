@@ -1,0 +1,5 @@
+-  Hi, I’m @KubaMusil12
+-  I’m interested in creating games
+-  I’m currently learning C++
+-  Pronouns: he/him
+-  Fun fact: I am good at geography
